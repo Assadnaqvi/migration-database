@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1689677538416,
+      "tag": "0000_curly_luke_cage",
+      "breakpoints": true
+    }
+  ]
+}
